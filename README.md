@@ -17,7 +17,7 @@
 
 - 🔭 Currently working on: **Student Accommodation Site**
 - 💬 Ask me about: **C#, ASP.NET, SQL**
-- 📫 Reach me at: **chokoelethabo@gmail.com**
+
 - ⚡ Fun Fact: **I’m a beast at chess and debugging** 🧠♟️
 
 ---
